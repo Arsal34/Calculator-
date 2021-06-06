@@ -5,7 +5,7 @@ Salient features:
 1) This project is similar to the calculator available on android phones
 2) All functions that are available on android, work accurately on it
 3) It can handly numbers up to 64 bits.
-4) History of the operations is displayed on real-time
+4) History of the operations is displayed on real-time.
 
 Working and usage:
 1) This is an all-purpose non-scientific calculator
